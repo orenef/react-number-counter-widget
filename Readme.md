@@ -3,7 +3,7 @@
 
 react-number-counter-widget is react component use to add counter up animation for number-widget
 
-codesandbox demo -> [Demo]()
+Demo (codesandbox) -> [Demo](https://6kzydw.csb.app/)
 ## Installation
 
 Use the package manager [npm](https://www.npmjs.com/package/react-number-counter-widget) to install .

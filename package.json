@@ -1,6 +1,6 @@
 {
   "name": "react-number-counter-widget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-number-counter-widget is react component use to add counter up animation for number-widget",
   "main": "build/index.js",
   "module": "build/index.es.js",
