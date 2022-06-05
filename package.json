@@ -1,9 +1,10 @@
 {
-  "name": "react-typescript-rollup-parcel-template",
+  "name": "react-number-counter-widget",
   "version": "1.0.0",
-  "description": "Base template",
+  "description": "react-number-counter-widget is react component use to add counter up animation for number-widget",
   "main": "build/index.js",
   "module": "build/index.es.js",
+  "keywords": ["counter", "react", "widget"],
   "scripts": {
     "start": "parcel --out-dir playground-build ./src/playground/index.html",
     "test": "echo \"Error: no test specified\" && exit 1",
