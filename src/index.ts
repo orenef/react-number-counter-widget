@@ -1,1 +1,1 @@
-export { Base } from './NumberWidgetCounter'
+export { NumberWidgetCounter } from './NumberWidgetCounter'
